@@ -7,5 +7,5 @@ npm compile.js
 # Use this command to run the tests
 npm run test
 
-# Use this command to deploy the contract --> Everytime it´s run a new contract it´s created
+# Use this command to deploy the contract --> Everytime it's executed a new contract it's created
 node deploy.js
